@@ -53,3 +53,7 @@ Frequentar as reuniões, estar disposto a contribuir com a equipe, enganjar no p
 <img style="width:200px" src="https://avatars.githubusercontent.com/u/101841063?s=400&u=9516351b1dd22143cb2a7e7de29b00a10e21d5a5&v=4" alt="imagem da desenvolvedora">
 
 [Linkedin](https://www.linkedin.com/in/andressa-cabral-19095b192/)
+
+<img style="width:200px" src="https://raw.githubusercontent.com/w3b3d3v/web3dev-assets/0a34d3aeb65e6a5f4e05e537ae4e2d3b1522566e/gif/web3dev.gif" alt="figurinha">
+
+[WEB3DEV](https://www.web3dev.com.br/) 
